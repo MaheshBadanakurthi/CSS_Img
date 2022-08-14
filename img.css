@@ -1,0 +1,28 @@
+img{
+    width:300px;
+    height: 350px;
+    border:10px ridge pink;
+
+}
+img{
+    width:300px;
+    height: 350px;
+    border:10px dotted blue;
+
+}
+img{
+    width:100px;
+    height: 100px;
+    border:7px dashed green;
+    
+
+}
+    body{ background-image: url('childhood2.jpeg'),url('childhood.jpeg');
+        background-repeat:repeat-y;
+        background-repeat:repeat-x;
+        background-repeat:no-repeat;
+        background-position:center;
+        background-attachment:scroll ;
+        
+
+    }
